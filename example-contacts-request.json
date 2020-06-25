@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Felipe",
+        "lastName": "Sobrero Sandroni",
+        "email": "felipe.sobrero@zappay.com.br",
+        "phone": "11 96325-1145",
+        "status": true,
+        "accounts": [
+            {
+                "bank": 341,
+                "name": "FELIPE SOBRERO",
+                "agency": "2475",
+                "account": "48596-7",
+                "status": true
+            }
+        ]
+    }, {
+
+    }
+]
